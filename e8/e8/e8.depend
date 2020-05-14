@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589422736 source:c:\users\hp\desktop\ejercicios\normalizar\tp2\e8\e8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
